@@ -11,3 +11,8 @@ This file contains the code to use the best weights obtained after training the 
 ## Bulk_cheque_rename
 
 This utility file helps to correct the names of the annotated images and labels obtained from Roboflow since they are not in the proper order. It also helps to extract each section of the predicted part of the image by each section.
+
+## YOLO_V8_Training_Final
+
+This file contains all the code required to train the final YOLO v8 nano model we will be using for our Cheque Image object detection.
+Around 400 epochs is required to give good results which may need to be increased with variegated dataset.
