@@ -16,3 +16,7 @@ This utility file helps to correct the names of the annotated images and labels 
 
 This file contains all the code required to train the final YOLO v8 nano model we will be using for our Cheque Image object detection.
 Around 400 epochs is required to give good results which may need to be increased with variegated dataset.
+
+## custom_8parts.yaml
+
+Custom YAML file that needs to be uploaded for the model to label the objects it finds accordingly
