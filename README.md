@@ -19,4 +19,8 @@ Around 400 epochs is required to give good results which may need to be increase
 
 ## custom_8parts.yaml
 
-Custom YAML file that needs to be uploaded for the model to label the objects it finds accordingly
+Custom YAML file that needs to be uploaded for the model to label the objects it finds accordingly.
+
+## YOLOv8_Inference
+
+This file helps to draw inference from images provided and store the extracted part of the images as separate images so that they could be used in the next step of the fraud detection process.
