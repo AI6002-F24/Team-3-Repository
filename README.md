@@ -24,3 +24,7 @@ Custom YAML file that needs to be uploaded for the model to label the objects it
 ## YOLOv8_Inference
 
 This file helps to draw inference from images provided and store the extracted part of the images as separate images so that they could be used in the next step of the fraud detection process.
+
+## GUI_Streamlit
+
+This file contains the code for running a Streamlit webapp on the Streamlit community server after going through a tunnel. It is fully functional and runs the YOLO v8 nano model in the backend to predict cheque fields and display them. This only has the problem that it crashes very often since the community on Streamlit is very active. Only use the block of the notebook from the Final Trial section.
