@@ -28,3 +28,22 @@ This file helps to draw inference from images provided and store the extracted p
 ## GUI_Streamlit
 
 This file contains the code for running a Streamlit webapp on the Streamlit community server after going through a tunnel. It is fully functional and runs the YOLO v8 nano model in the backend to predict cheque fields and display them. This only has the problem that it crashes very often since the community on Streamlit is very active. Only use the block of the notebook from the Final Trial section.
+
+
+## Flask_App.zip
+
+This is the zipped folder that has all the required codefiles in the proper structure to run a webapp locally using flask and run the demo version of our application.
+
+## Flask App structure
+![image_2024-11-24_091520448](https://github.com/user-attachments/assets/06fc3c00-0133-43c9-bb45-4197a50c0e4a)
+
+## Contributors
+
+* Sanjana Khan Shammi (202294234)
+* Chiradip Bhattacharya (202292781)
+* Rohit Arora (202292817)
+
+## License
+
+MIT License
+
