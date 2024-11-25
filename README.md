@@ -37,6 +37,10 @@ This is the zipped folder that has all the required codefiles in the proper stru
 ## Flask App structure
 ![image_2024-11-24_091520448](https://github.com/user-attachments/assets/06fc3c00-0133-43c9-bb45-4197a50c0e4a)
 
+## Sign_Verification
+
+This file contains the code for building and training a Siamese Network for verifying signatures. The network detects how similar each sign is to each other and associates a distance between them which in turn can be used as a threshold to distinguish between real and forged signatures.
+
 ## Contributors
 
 * Sanjana Khan Shammi (202294234)
