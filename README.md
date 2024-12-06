@@ -41,6 +41,9 @@ This is the zipped folder that has all the required codefiles in the proper stru
 
 This file contains the code for building and training a Siamese Network for verifying signatures. The network detects how similar each sign is to each other and associates a distance between them which in turn can be used as a threshold to distinguish between real and forged signatures.
 
+## User Setup and Usage
+This file contains the detailed information on how to setup and use the system on any machine. The required steps are highlighted with visual aids which makes setting up and using the system an easy task.
+
 ## Contributors
 
 * Sanjana Khan Shammi (202294234)
