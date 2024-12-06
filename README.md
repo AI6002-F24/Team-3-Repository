@@ -51,7 +51,7 @@ The folders are too large to upload on Github so sharing the drive links here -
 
 ## User Setup and Usage
 This file contains the detailed information on how to setup and use the system on any machine. The required steps are highlighted with visual aids which makes setting up and using the system an easy task.
-
+The file can be accessed from here - <https://github.com/AI6002-F24/Team-3-Repository/blob/main/User%20Setup%20and%20Usage.pdf>
 
 
 ## Contributors
