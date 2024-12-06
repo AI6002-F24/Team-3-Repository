@@ -41,8 +41,18 @@ This is the zipped folder that has all the required codefiles in the proper stru
 
 This file contains the code for building and training a Siamese Network for verifying signatures. The network detects how similar each sign is to each other and associates a distance between them which in turn can be used as a threshold to distinguish between real and forged signatures.
 
+## Signature Verification Dataset
+
+The folders are too large to upload on Github so sharing the drive links here -
+* Train Data - <https://drive.google.com/drive/folders/1T26e3YW4h3flzvNstv1XBA7WG_crOu4m?usp=drive_link>
+* Test Data - <https://drive.google.com/drive/folders/17Rc7wARbWsGc5UrYRA83PMRdUAObsq9u?usp=drive_link>
+* Train metadata - <https://drive.google.com/file/d/1n1zAkelM7eCMtZe9f-W1bZJHUEWqTubV/view?usp=drive_link>
+* Test metadata - <https://drive.google.com/file/d/1Xyedk2bld7IJqi6ZQevXn91-hgaDtEmI/view?usp=drive_link>
+
 ## User Setup and Usage
 This file contains the detailed information on how to setup and use the system on any machine. The required steps are highlighted with visual aids which makes setting up and using the system an easy task.
+
+
 
 ## Contributors
 
